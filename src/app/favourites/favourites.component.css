@@ -1,0 +1,5 @@
+mat-list mat-icon:hover{ cursor: pointer; }
+mat-card-content span:hover{ cursor: pointer; color: #9494db; }
+
+.artist-name { color: #ffc0cb; }
+.track-album { color: #e195ef }
