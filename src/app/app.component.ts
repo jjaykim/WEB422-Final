@@ -6,7 +6,7 @@
  *
  * Name: Jungjoo Kim Student ID: 162 641 195 Date: December 2, 2021
  *
- * Angular App (Deployed) Link: _____________________________________________________
+ * Angular App (Deployed) Link: https://web-422-final.vercel.app/
  *
  * User API (Heroku) Link: https://jay-web422-a6.herokuapp.com
  ********************************************************************************/
